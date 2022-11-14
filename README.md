@@ -2,7 +2,7 @@
 
 [Jump to Instructions](#Instructions)
 
-Want a sample client? [Check Here](https://github.com/amirmirzaei79/microservice-judge-sample-client)
+Want a sample client? [Check Here](https://github.com/amirmirzaei79/Micro-Service-Judge-Sample-Client)
 
 Check out pre-built images on [Docker Hub](https://hub.docker.com/r/amirmirzaei79/microservice-judge).
 
